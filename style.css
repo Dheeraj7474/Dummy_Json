@@ -1,0 +1,9 @@
+
+table, th{
+    border: 1px solid black;
+    justify-content: space-between;
+}
+th{
+    width: 10%;
+    height: 20px;
+}
